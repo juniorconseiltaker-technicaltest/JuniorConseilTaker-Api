@@ -5,3 +5,5 @@
   - docker compose up -d server 
 - Stop the server:
   - docker compose down
+
+- baseURL: localhost:3000
