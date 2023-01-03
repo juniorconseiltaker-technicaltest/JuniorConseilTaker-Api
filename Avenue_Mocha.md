@@ -1,6 +1,6 @@
 ## Getting started
 - Clone the [repo](https://github.com/juniorconseiltaker-technicaltest/Avenu_Mocha_API)
-- cd avenue-mocha-server
+- cd Avenu_Mocha_API
 - Launch the server:
   - docker compose up -d
 - Stop the server:
