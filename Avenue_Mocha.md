@@ -6,4 +6,21 @@
 - Stop the server:
   - docker compose down
 
-- baseURL: localhost:3000
+- baseURL=http://localhost:3000
+
+
+### REQUESTS
+
+#### GET
+
+- Get all coffees: 
+  - route : /coffees
+- Get hot coffees: 
+  - route : /coffees/hot
+- Get iced coffees: 
+  - route : /coffees/iced
+- Get coffee shops: 
+ - route : /shops
+
+If you think this documentation can be improved don not hesitate to contact us ;)
+
