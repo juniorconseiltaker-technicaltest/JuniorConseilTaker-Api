@@ -20,7 +20,7 @@
 - Get iced coffees: 
   - route : /coffees/iced
 - Get coffee shops: 
- - route : /shops
+  - route : /shops
 
 If you think this documentation can be improved don not hesitate to contact us ;)
 
